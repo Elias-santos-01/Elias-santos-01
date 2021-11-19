@@ -1,7 +1,7 @@
 <div align="center">
-   <a href="https://github.com/Eliezer-Andrade-Dos-Santos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliezer-Andrade-Dos-Santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezer-Andrade-Dos-Santos&layout=compact&langs_count=7&theme=dark"/>
+   <a href="https://github.com/Elias-santos-01">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-santos-01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-santos-01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
   <h1>Tecnologias que ja fiz projetos, e estou estudando</h1>
